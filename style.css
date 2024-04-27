@@ -1,0 +1,21 @@
+/* style.css */
+body {
+    background-color: #fca0a0; /* Step 3: Set body background color */
+}
+
+.head {
+    color: darkblue; /* Step 5: Apply dark blue text color to all elements with class 'head' */
+}
+
+#bglime {
+    background-color: lime; /* Step 6: Give background color to the second heading */
+}
+
+#para {
+    color: green; /* Step 9: Set the text color of 'para' in 2nd paragraph green */
+    font-size: 20px; /* Step 10: Increase font-size of 'para' */
+}
+
+ul span {
+    color: red; /* Step 11: Style the 'here' text in the list */
+}
